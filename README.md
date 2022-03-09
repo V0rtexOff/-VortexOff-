@@ -16,4 +16,4 @@ I'm an amateur programmer who makes dumb projects and tries his best to learn ho
 
 > Two Dudes Programming is an "organization" me and my friend made to manage our projects. So it's not really a big deal, but I thought it would be nice to include it in my profile description
 
-![TDP Badge](https://img.shields.io/badge/TDP-Two%20Dudes%20Programming-blueviolet)
+[![TDP Badge](https://img.shields.io/badge/TDP-Two%20Dudes%20Programming-blueviolet)](https://github.com/TDP-Two-dudes-programming)
