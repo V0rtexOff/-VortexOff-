@@ -1,5 +1,5 @@
 ## Welcome to my profile :)
-I'm an amateur programmer who makes dumb projects and tries his best to learn how to code.  
+I'm an amateur programmer who makes dumb projects and tries his best to learn how to code. 💀
 
 <hr>
 
